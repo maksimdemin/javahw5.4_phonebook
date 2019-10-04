@@ -20,6 +20,7 @@ hs_err_pid*
 /data/
 /lib/
 /log/
+/logs/
 /out/
 **/libraries/
 **/target/
